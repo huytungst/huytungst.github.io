@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  - title: "Machine Learning"
+    url: /ML/
+  - title: "Deep Learning"
+    url: /DL/
+  - title: "LLM"
+    url: /LLM/
   - title: "About"
     url: /about/

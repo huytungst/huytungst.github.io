@@ -1,7 +1,7 @@
 ---
 title: "Post: Quote"
 categories:
-  - Blog
+  - LLM
 tags:
   - Post Formats
   - quote
